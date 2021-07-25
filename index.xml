@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thinking is Anti-Fragile</title>
-    <link>http://work-amchen.github.io/</link>
+    <link>work-amchen.github.io/</link>
     <description>Recent content on Thinking is Anti-Fragile</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://work-amchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="work-amchen.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
